@@ -3,7 +3,7 @@
 An anonymous student chat app built with React, Firebase, and Tailwind CSS.
 
 ## 🚀 Live Demo
-[https://uni-chat-app-v1.vercel.app](Here)
+[Here](https://uni-chat-app-v1.vercel.app)
 
 ## 🔧 Local Setup
 
